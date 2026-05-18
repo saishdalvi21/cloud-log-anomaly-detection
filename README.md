@@ -1,2 +1,20 @@
-# cloud-log-anomaly-detection
-This project focuses on detecting anomalies in cloud-generated logs using data analysis and machine learning techniques. It is designed to improve cloud security and observability by identifying unusual patterns, potential misconfigurations, and suspicious activity in real-time or batch-processed log data.
+# AI-Based Cloud Log Anomaly Detection
+
+## Overview
+AI-powered cloud log anomaly detection system designed for security monitoring and predictive incident response using AWS CloudWatch, ELK Stack, and Scikit-learn.
+
+## Technologies
+- AWS CloudWatch
+- ELK Stack
+- AWS Lambda
+- Python
+- Scikit-learn
+- SNS
+- S3
+
+## Features
+- Real-time anomaly detection
+- Automated alerting
+- Security monitoring
+- Event-driven response
+- ML-based threat detection
